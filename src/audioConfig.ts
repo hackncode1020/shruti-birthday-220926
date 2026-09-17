@@ -49,7 +49,7 @@ export const CUSTOM_AUDIO_CONFIG: CustomAudioSettings = {
   songTitle: "Tore Aage Main Sar Ko Jhuka Doon 🎵",
 
   // 👉 ૩. ગીતનો વોલ્યુમ (0.1 થી 1.0):
-  defaultVolume: 0.8,
+  defaultVolume: 1.0,
 
   // 👉 ૪. સ્ક્રીન પર પહેલી ક્લિક સાથે મ્યુઝિક શરૂ કરવું?
   autoPlayOnFirstClick: true,
